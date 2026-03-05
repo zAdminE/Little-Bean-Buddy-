@@ -1,77 +1,102 @@
-☕ Little Bean Buddy — ระบบจัดการร้านกาแฟ
+# ☕ Little Bean Buddy — ระบบจัดการร้านกาแฟ
 
-Small beans, big friendship sharing the warmth of every roast.
+> *Small beans, big friendship sharing the warmth of every roast.*
 
+---
 
-📋 รายละเอียดโปรเจกต์
-Little Bean Buddy คือระบบจัดการร้านกาแฟแบบครบวงจร พัฒนาด้วย C# Windows Forms โดยแบ่งการทำงานออกเป็น 2 ส่วนหลัก ได้แก่ ระบบหน้าร้านสำหรับลูกค้า และระบบหลังร้านสำหรับผู้ดูแลระบบ (Admin)
+## 📋 รายละเอียดโปรเจกต์
 
-✨ ฟีเจอร์หลัก
-🛍️ ระบบหน้าร้าน (Customer)
+**Little Bean Buddy** คือระบบจัดการร้านกาแฟแบบครบวงจร พัฒนาด้วย C# Windows Forms โดยแบ่งการทำงานออกเป็น 2 ส่วนหลัก ได้แก่ ระบบหน้าร้านสำหรับลูกค้า และระบบหลังร้านสำหรับผู้ดูแลระบบ (Admin)
 
-สมัครสมาชิก / เข้าสู่ระบบ
-ดูสินค้าเมล็ดกาแฟพร้อมราคาและสต็อก
-ค้นหาสินค้า
-เพิ่มสินค้าลงตะกร้า / ปรับจำนวน / ลบสินค้า
-ส่วนลดอัตโนมัติ 5% เมื่อซื้อครบ 10 ชิ้น
-กรอกข้อมูลการจัดส่งและยืนยันคำสั่งซื้อ
-ออกใบเสร็จพร้อม VAT 7% อัตโนมัติ
+---
 
-🔧 ระบบหลังร้าน (Admin)
+## ✨ ฟีเจอร์หลัก
 
-จัดการสินค้า (เพิ่ม / แก้ไข / ลบ)
-จัดการผู้ใช้งาน (เพิ่ม / แก้ไข / ลบ / ค้นหา)
-จัดการออเดอร์ทั้งหมด
-ดูยอดขายตามวันที่ / รายเดือน / สินค้าขายดี
+### 🛍️ ระบบหน้าร้าน (Customer)
+- สมัครสมาชิก / เข้าสู่ระบบ
+- ดูสินค้าเมล็ดกาแฟพร้อมราคาและสต็อก
+- ค้นหาสินค้า
+- เพิ่มสินค้าลงตะกร้า / ปรับจำนวน / ลบสินค้า
+- ส่วนลดอัตโนมัติ 5% เมื่อซื้อครบ 10 ชิ้น
+- กรอกข้อมูลการจัดส่งและยืนยันคำสั่งซื้อ
+- ออกใบเสร็จพร้อม VAT 7% อัตโนมัติ
 
+### 🔧 ระบบหลังร้าน (Admin)
+- จัดการสินค้า (เพิ่ม / แก้ไข / ลบ)
+- จัดการผู้ใช้งาน (เพิ่ม / แก้ไข / ลบ / ค้นหา)
+- จัดการออเดอร์ทั้งหมด
+- ดูยอดขายตามวันที่ / รายเดือน / สินค้าขายดี
 
-🗃️ โครงสร้างฐานข้อมูล
-ฐานข้อมูล: coffee_shop (MySQL / InnoDB)
-ตารางคำอธิบายจำนวน Rowsusersข้อมูลบัญชีผู้ใช้งาน1+productsข้อมูลสินค้าเมล็ดกาแฟ5ordersคำสั่งซื้อของลูกค้า9+order_itemsรายการสินค้าในแต่ละออเดอร์24+
-ความสัมพันธ์ระหว่างตาราง:
+---
+
+## 🗃️ โครงสร้างฐานข้อมูล
+
+ฐานข้อมูล: `coffee_shop` (MySQL / InnoDB)
+
+| ตาราง | คำอธิบาย | จำนวน Rows |
+|---|---|---|
+| `users` | ข้อมูลบัญชีผู้ใช้งาน | 1+ |
+| `products` | ข้อมูลสินค้าเมล็ดกาแฟ | 5 |
+| `orders` | คำสั่งซื้อของลูกค้า | 9+ |
+| `order_items` | รายการสินค้าในแต่ละออเดอร์ | 24+ |
+
+**ความสัมพันธ์ระหว่างตาราง:**
+```
 users (1) ──── (N) orders (1) ──── (N) order_items (N) ──── (1) products
+```
 
-🛠️ เทคโนโลยีที่ใช้
-ส่วนเทคโนโลยีภาษาโปรแกรมC#UI FrameworkWindows Forms (.NET)ฐานข้อมูลMySQLเครื่องมือจัดการ DBphpMyAdminServerXAMPP (localhost)
+---
 
-🚀 วิธีติดตั้งและใช้งาน
-ความต้องการของระบบ
+## 🛠️ เทคโนโลยีที่ใช้
 
-Windows 10 ขึ้นไป
-.NET Framework 4.7.2+
-XAMPP (MySQL + Apache)
+| ส่วน | เทคโนโลยี |
+|---|---|
+| ภาษาโปรแกรม | C# |
+| UI Framework | Windows Forms (.NET) |
+| ฐานข้อมูล | MySQL |
+| เครื่องมือจัดการ DB | phpMyAdmin |
+| Server | XAMPP (localhost) |
 
-ขั้นตอนการติดตั้ง
+---
 
-Clone โปรเจกต์
+## 🚀 วิธีติดตั้งและใช้งาน
 
-bash   git clone https://github.com/username/little-bean-buddy.git
+### ความต้องการของระบบ
+- Windows 10 ขึ้นไป
+- .NET Framework 4.7.2+
+- XAMPP (MySQL + Apache)
 
-ตั้งค่าฐานข้อมูล
+### ขั้นตอนการติดตั้ง
 
-เปิด XAMPP แล้วสตาร์ท MySQL
-เข้า phpMyAdmin (http://localhost/phpmyadmin)
-สร้างฐานข้อมูลชื่อ coffee_shop
-Import ไฟล์ coffee_shop.sql ที่อยู่ในโฟลเดอร์ database/
+1. **Clone โปรเจกต์**
+   ```bash
+   git clone https://github.com/username/little-bean-buddy.git
+   ```
 
+2. **ตั้งค่าฐานข้อมูล**
+   - เปิด XAMPP แล้วสตาร์ท MySQL
+   - เข้า phpMyAdmin (`http://localhost/phpmyadmin`)
+   - สร้างฐานข้อมูลชื่อ `coffee_shop`
+   - Import ไฟล์ `coffee_shop.sql` ที่อยู่ในโฟลเดอร์ `database/`
 
-แก้ไข Connection String
+3. **แก้ไข Connection String**
+   - เปิดไฟล์ `DBConnection.cs` หรือ `App.config`
+   - แก้ไข Host, Username, Password ให้ตรงกับเครื่องของคุณ
 
-เปิดไฟล์ DBConnection.cs หรือ App.config
-แก้ไข Host, Username, Password ให้ตรงกับเครื่องของคุณ
+4. **รันโปรแกรม**
+   - เปิดไฟล์ `.sln` ด้วย Visual Studio
+   - กด `F5` หรือคลิกปุ่ม Run
 
+### บัญชีเริ่มต้น (Default Account)
+| Role | Username | Password |
+|---|---|---|
+| Admin | admin | 1111 |
 
-รันโปรแกรม
+---
 
-เปิดไฟล์ .sln ด้วย Visual Studio
-กด F5 หรือคลิกปุ่ม Run
+## 📁 โครงสร้างโฟลเดอร์
 
-
-
-บัญชีเริ่มต้น (Default Account)
-RoleUsernamePasswordAdminadmin1111
-
-📁 โครงสร้างโฟลเดอร์
+```
 little-bean-buddy/
 ├── Forms/
 │   ├── Form1.cs          # หน้า Login
@@ -82,9 +107,16 @@ little-bean-buddy/
 │   └── coffee_shop.sql   # ไฟล์ SQL สำหรับ Import
 ├── Resources/            # รูปภาพและ Assets
 └── README.md
+```
 
-👨‍💻 ผู้พัฒนา
+---
+
+## 👨‍💻 ผู้พัฒนา
+
 พัฒนาโดยนักศึกษาเพื่อการศึกษา
 
-📄 License
+---
+
+## 📄 License
+
 This project is for educational purposes only.
