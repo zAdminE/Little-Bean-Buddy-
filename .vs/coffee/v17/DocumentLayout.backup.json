@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galax\\source\\repos\\coffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\UserForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\pageshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|c:\\users\\galax\\downloads\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|c:\\users\\galax\\source\\repos\\coffee\\coffee\\pageshop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\pageshop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|c:\\users\\galax\\downloads\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|c:\\users\\galax\\downloads\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\director.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\pageshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\customfontresolver.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\customfontresolver.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|C:\\Users\\galax\\source\\repos\\coffee\\coffee\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E3E9B58-38B8-463D-A9A4-BF88905DB643}|coffee\\coffee.csproj|solutionrelative:coffee\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "director.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.cs",
+              "RelativeDocumentMoniker": "coffee\\director.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.cs",
+              "RelativeToolTip": "coffee\\director.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA9wAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:36:49.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\RegisterForm.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\RegisterForm.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAD4v8MAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:32:26.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\UserForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\UserForm.cs",
+              "ToolTip": "C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\UserForm.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\UserForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:28:25.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\galax\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\LoginForm.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\Coffee_Shop\\coffee\\LoginForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAD4v1UAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:27:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galax\\Downloads\\CartForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CartForm.cs",
+              "ToolTip": "C:\\Users\\galax\\Downloads\\CartForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:02:10.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pageshop.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.cs",
+              "RelativeDocumentMoniker": "coffee\\pageshop.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.cs",
+              "RelativeToolTip": "coffee\\pageshop.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAA7wKMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:40:46.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.cs",
+              "RelativeDocumentMoniker": "coffee\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.cs",
+              "RelativeToolTip": "coffee\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:02:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\Downloads\\CartForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\galax\\Downloads\\CartForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CartForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:43:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pageshop.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.Designer.cs",
+              "RelativeDocumentMoniker": "coffee\\pageshop.Designer.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.Designer.cs",
+              "RelativeToolTip": "coffee\\pageshop.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywGgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:35:04.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\Downloads\\CartForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CartForm.cs",
+              "ToolTip": "C:\\Users\\galax\\Downloads\\CartForm.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CartForm.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAYwB0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:06:23.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "director.resx",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.resx",
+              "RelativeDocumentMoniker": "coffee\\director.resx",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.resx",
+              "RelativeToolTip": "coffee\\director.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-26T11:16:05.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pageshop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.cs",
+              "RelativeDocumentMoniker": "coffee\\pageshop.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\pageshop.cs [Design]",
+              "RelativeToolTip": "coffee\\pageshop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:07:03.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\CartForm.cs",
+              "RelativeDocumentMoniker": "coffee\\CartForm.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\CartForm.cs [Design]",
+              "RelativeToolTip": "coffee\\CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:06:12.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomFontResolver.cs.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\CustomFontResolver.cs.cs",
+              "RelativeDocumentMoniker": "coffee\\CustomFontResolver.cs.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\CustomFontResolver.cs.cs",
+              "RelativeToolTip": "coffee\\CustomFontResolver.cs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:59:24.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "coffee\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "coffee\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:46:27.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.cs",
+              "RelativeDocumentMoniker": "coffee\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.cs [Design]",
+              "RelativeToolTip": "coffee\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:47:20.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "coffee\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\RegisterForm.cs",
+              "RelativeToolTip": "coffee\\RegisterForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwF4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:32:22.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "coffee\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "coffee\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAIwAYBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:46:11.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "coffee\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.Designer.cs",
+              "RelativeToolTip": "coffee\\LoginForm.Designer.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAD4v6wAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:12:07.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "director.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.cs",
+              "RelativeDocumentMoniker": "coffee\\director.cs",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\director.cs [Design]",
+              "RelativeToolTip": "coffee\\director.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:34:04.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.resx",
+              "RelativeDocumentMoniker": "coffee\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\galax\\source\\repos\\coffee\\coffee\\LoginForm.resx",
+              "RelativeToolTip": "coffee\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-22T07:27:15.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

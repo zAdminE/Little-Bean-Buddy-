@@ -1,0 +1,15 @@
+C:\Users\galax\source\repos\coffee\coffee\bin\Release\coffee.exe.config
+C:\Users\galax\source\repos\coffee\coffee\bin\Release\coffee.exe
+C:\Users\galax\source\repos\coffee\coffee\bin\Release\coffee.pdb
+C:\Users\galax\source\repos\coffee\coffee\bin\Release\Guna.UI2.dll
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.csproj.AssemblyReference.cache
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.director.resources
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.LoginForm.resources
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.pageshop.resources
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.RegisterForm.resources
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.Properties.Resources.resources
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.csproj.GenerateResource.cache
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.csproj.CoreCompileInputs.cache
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.csproj.Up2Date
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.exe
+C:\Users\galax\source\repos\coffee\coffee\obj\Release\coffee.pdb
